@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmeyaJujam
+- 👀 I’m interested in learning C/c++ languages
+- 🌱 I’m currently learning C/c++ languages
+- 💞️ I’m looking to collaborate on mini projects
+- 📫 You can reach me on through email: ameyajujam@gmail.com
